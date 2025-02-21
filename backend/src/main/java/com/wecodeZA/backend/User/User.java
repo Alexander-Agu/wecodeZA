@@ -1,7 +1,6 @@
 package com.wecodeZA.backend.User;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.wecodeZA.backend.Posts.Post;
-import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
 
 import jakarta.persistence.*;
